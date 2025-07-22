@@ -58,7 +58,7 @@ The dataset (`updated_patient_records_dataset.csv`) includes:
 
 ## 📷 Dashboard Preview
 
-![Apollo Hospital Leads Flow Dashboard](Apollo  Leads Flow Dashboard SS.png)
+![Apollo Hospital Leads Flow Dashboard](https://github.com/Amitbhandari312/Apollo-Hospital-Dashboard/blob/main/Apollo%20%20Leads%20Flow%20Dashboard%20SS.png)
 
 ---
 
