@@ -80,7 +80,7 @@ The dataset (`updated_patient_records_dataset.csv`) includes:
 
 ---
 ## Screenshot 
-
+https://github.com/Amitbhandari312/Apollo-Hospital-Dashboard/blob/main/Apollo%20%20Leads%20Flow%20Dashboard%20SS.png
 
 
 ## 📬 Contact
